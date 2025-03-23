@@ -1,2 +1,2 @@
 # Budget
-First ever app to build, all made with Cursor!
+First ever app build, all made with Cursor!
